@@ -1,0 +1,7 @@
+D:\Visual Studio\ISMDotNet1\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Visual Studio\ISMDotNet1\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Visual Studio\ISMDotNet1\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Visual Studio\ISMDotNet1\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio\ISMDotNet1\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ISMDotNet1\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Visual Studio\ISMDotNet1\ConsoleApp\obj\Debug\ConsoleApp.pdb
